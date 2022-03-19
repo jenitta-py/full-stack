@@ -57,8 +57,7 @@ My previous work experiences include:</p>
 </body>
 <p class="lead">
   <b>Contact</b>
-</p>
-<p><b>Email:</b>jen123@gmail.com</p>
+<a href=emailto:jen123@gmail.com</a>
 <p><b>Phone Number:</b>1234509876</p>
 </body>
 </html>
