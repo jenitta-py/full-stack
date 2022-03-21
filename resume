@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -11,10 +11,6 @@
     <title>My Resume</title>
 </head>  
 <body>
-<style>{body:
-  color: $yellow-300;
-  background-color: $indigo-900;
-}</style>
 <nav class="navbar navbar-expand-lg navbar-$pink-400">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Jenitta Supriya</a>
@@ -24,11 +20,11 @@
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
+          <a class="nav-link active" aria-current="page" href="#">About Me</a>
           <a><link href="Home.html"></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Projects</a>
+          <a class="nav-link" href="#">Services</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Contact</a>
@@ -43,10 +39,24 @@
     <cite title="Source Title">Coco Chanel</cite>
   </figcaption>
 </figure>
-<p class="lead">
-  <i>Your One-Stop Solution for all Full Stack Needs.</i> I am Jenitta,an undergrad student who has worked in <b>10+ projects</b>
-</p>
-    <p>I can provide services like designing user interactions on websites, developing servers, and databases for website functionality, and coding for mobile platforms. 
+<header class="container">
+ <div class="row">
+   <div class="text-center">
+      <img src=https://i.pinimg.com/564x/be/c3/2f/bec32ffc65cf051af7bf2c71a9af424d.jpg class="rounded">
+</div>
+<div class="sm-col-6">
+  <p style="font-size:25px;">Your One-Stop Solution for all Full Stack Needs.</i> I am Jenitta,an undergrad student who has worked in <b>10+ projects</b>
+<br> <br>
+<!--<div class="col-sm-6">--!>
+
+<h3>ABOUT ME</h3>
+<hr>
+<p style="font-size:20px;">Hey!It's Jenitta here. You may wonder what a 19 year teen can build for you. My work is infront of your eyes as a live example. My resume was designed by me. 
+I am currently pursuing my Bachelors Degree.My theoretical knowledge and hands-on practise will yield you a incredible website.</p>
+
+<h3>SERVICES</h3>
+<hr>
+    <p style="font-size:20px;">I can provide services like designing user interactions on websites, developing servers, and databases for website functionality, and coding for mobile platforms. 
 My previous work experiences include:</p>
 <ul class="list-group">
   <li class="list-group-item">Development of front-end</li>
@@ -54,10 +64,10 @@ My previous work experiences include:</p>
   <li class="list-group-item">Creating databases and servers</li>
   <li class="list-group-item">Ensuring Cross Platform compatibility</li>
 </ul>
-</body>
-<p class="lead">
-  <b>Contact</b>
-<a href=emailto:jen123@gmail.com</a>
-<p><b>Phone Number:</b>1234509876</p>
+<br>
+
+<h3>CONTACT</h3>
+<hr>
+   <a href="jenittasupriya@gmail.com">Gmail</a>
 </body>
 </html>
